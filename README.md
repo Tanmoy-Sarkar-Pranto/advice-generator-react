@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-advice-generator-with-react-bKGeL2ZABM)
-- Live Site URL: [Add live site URL here](https://advice-generator-react.onrender.com/)
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/responsive-advice-generator-with-react-bKGeL2ZABM)
+- Live Site URL: [live site](https://advice-generator-react.onrender.com/)
 
 ## My process
 

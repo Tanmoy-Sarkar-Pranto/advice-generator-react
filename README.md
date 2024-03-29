@@ -25,6 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
+![](.//src/screenshots/screenshot.png)
+
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)

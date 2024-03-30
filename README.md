@@ -48,5 +48,5 @@ By doing this project, I learned how to use Axios to fetch data easily and it al
 
 ## Author
 
-- Website - [Add your name here](https://portfolio-new-a34w.onrender.com/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Tanmoy Sarkar Pranto](https://portfolio-new-a34w.onrender.com/)
+- Frontend Mentor - [@Tanmoy-Sarkar-Pranto](https://www.frontendmentor.io/profile/yourusername)
